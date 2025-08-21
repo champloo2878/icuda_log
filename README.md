@@ -6,7 +6,9 @@ Project Synchron
 - GPU parallelism
 - Strategy Alignment --> Data Pair Format
 - Evolve Loop Construction
-- Prompt: add cutlass
+- Prompt:
+  * add cutlass
+  * more profiling
 
 
 ## J. is working on
