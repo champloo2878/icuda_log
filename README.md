@@ -8,10 +8,11 @@ Project Synchron
 - Evolve Loop Construction
 
 
-## J working on
+## J. is working on
 - GPU parallelism
 
-
+## Q. is working on
+- Timing Measurement Accuracy
 
 
 
